@@ -45,7 +45,9 @@ button::-moz-focus-inner{
 }
 /*------------*/
 
-
+body{
+    background-color: bisque;
+}
 .main{
     display: flex;
     flex-direction: column;
